@@ -1,0 +1,15 @@
+body {
+  min-height: 200px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgb(250, 243, 211);
+}
+
+#Hobbi {
+  background-color: navajowhite(250, 243, 211);
+}
+
+section {
+  padding-top: 6rem;
+}
